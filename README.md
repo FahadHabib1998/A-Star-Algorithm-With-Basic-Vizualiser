@@ -1,1 +1,1 @@
-# A-algorithm-with-basic-vizualiser
+# A*-algorithm-with-basic-vizualiser
